@@ -1,0 +1,170 @@
+
+=== NEW BATTLE ===
+
+Army Stats Before Battle:
+Army #1 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Gimli           | cyberbahamut    |        132 |        120
+Dwalin          | macara          |         95 |        178
+Legolas         | bahamut         |        180 |         70
+Merry           | macara          |         56 |        154
+Boromir         | cyberbahamut    |         62 |        169
+Total Health: 691
+
+Army #2 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Kili            | bahamut         |         72 |        192
+Arwen           | macara          |         95 |        189
+Bombur          | bahamut         |        123 |         57
+Eowyn           | macara          |         69 |        111
+Oin             | cyberbahamut    |         85 |        191
+Total Health: 740
+
+
+--- BATTLE LOG ---
+
+Battle 1: Gimli the cyberbahamut vs Kili the bahamut
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Kili the bahamut          |     17 | Army #2    | Gimli the cyberbahamut    |             103 | Army #1   
+Gimli the cyberbahamut    |     23 | Army #1    | Kili the bahamut          |             169 | Army #2   
+Kili the bahamut          |      9 | Army #2    | Gimli the cyberbahamut    |              94 | Army #1   
+Gimli the cyberbahamut    |    120 | Army #1    | Kili the bahamut          |              49 | Army #2   
+Kili the bahamut          |     44 | Army #2    | Gimli the cyberbahamut    |              50 | Army #1   
+Gimli the cyberbahamut    |      6 | Army #1    | Kili the bahamut          |              43 | Army #2   
+Kili the bahamut          |     50 | Army #2    | Gimli the cyberbahamut    |               0 | Army #1   
+Winner: Kili the bahamut
+
+Battle 2: Dwalin the macara vs Arwen the macara
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Arwen the macara          |     25 | Army #2    | Dwalin the macara         |             153 | Army #1   
+Dwalin the macara         |     95 | Army #1    | Arwen the macara          |              94 | Army #2   
+Arwen the macara          |     65 | Army #2    | Dwalin the macara         |              88 | Army #1   
+Dwalin the macara         |     55 | Army #1    | Arwen the macara          |              39 | Army #2   
+Arwen the macara          |     49 | Army #2    | Dwalin the macara         |              39 | Army #1   
+Dwalin the macara         |     93 | Army #1    | Arwen the macara          |               0 | Army #2   
+Winner: Dwalin the macara
+
+Battle 3: Legolas the bahamut vs Bombur the bahamut
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Legolas the bahamut       |    132 | Army #1    | Bombur the bahamut        |               0 | Army #2   
+Winner: Legolas the bahamut
+
+Battle 4: Merry the macara vs Eowyn the macara
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Merry the macara          |     44 | Army #1    | Eowyn the macara          |              67 | Army #2   
+Eowyn the macara          |     13 | Army #2    | Merry the macara          |             141 | Army #1   
+Merry the macara          |     54 | Army #1    | Eowyn the macara          |              13 | Army #2   
+Eowyn the macara          |    100 | Army #2    | Merry the macara          |              41 | Army #1   
+Merry the macara          |      8 | Army #1    | Eowyn the macara          |               5 | Army #2   
+Eowyn the macara          |     60 | Army #2    | Merry the macara          |               0 | Army #1   
+Winner: Eowyn the macara
+
+Battle 5: Boromir the cyberbahamut vs Oin the cyberbahamut
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Oin the cyberbahamut      |      5 | Army #2    | Boromir the cyberbahamut  |             164 | Army #1   
+Boromir the cyberbahamut  |     20 | Army #1    | Oin the cyberbahamut      |             171 | Army #2   
+Oin the cyberbahamut      |      9 | Army #2    | Boromir the cyberbahamut  |             155 | Army #1   
+Boromir the cyberbahamut  |     21 | Army #1    | Oin the cyberbahamut      |             150 | Army #2   
+Oin the cyberbahamut      |     83 | Army #2    | Boromir the cyberbahamut  |              72 | Army #1   
+Boromir the cyberbahamut  |     15 | Army #1    | Oin the cyberbahamut      |             135 | Army #2   
+Oin the cyberbahamut      |     26 | Army #2    | Boromir the cyberbahamut  |              46 | Army #1   
+Boromir the cyberbahamut  |     59 | Army #1    | Oin the cyberbahamut      |              76 | Army #2   
+Oin the cyberbahamut      |     44 | Army #2    | Boromir the cyberbahamut  |               2 | Army #1   
+Boromir the cyberbahamut  |     46 | Army #1    | Oin the cyberbahamut      |              30 | Army #2   
+Oin the cyberbahamut      |     38 | Army #2    | Boromir the cyberbahamut  |               0 | Army #1   
+Winner: Oin the cyberbahamut
+
+Army Stats After Battle:
+Army #1 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Gimli           | cyberbahamut    |        132 |          0
+Dwalin          | macara          |         95 |         39
+Legolas         | bahamut         |        180 |         70
+Merry           | macara          |         56 |          0
+Boromir         | cyberbahamut    |         62 |          0
+Total Health: 109
+
+Army #2 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Kili            | bahamut         |         72 |         43
+Arwen           | macara          |         95 |          0
+Bombur          | bahamut         |        123 |          0
+Eowyn           | macara          |         69 |          5
+Oin             | cyberbahamut    |         85 |         30
+Total Health: 78
+
+
+
+=== FINAL RESULTS ===
+Army #1 total health: 109
+Army #2 total health: 78
+Army #1 wins the war!
+
+=== NEW BATTLE ===
+
+Army Stats Before Battle:
+Army #1 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Kili            | macara          |        130 |        170
+Thorin          | superbahamut    |         78 |        103
+Total Health: 273
+
+Army #2 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Faramir         | superbahamut    |        104 |        189
+Pippin          | cyberbahamut    |        123 |         88
+Total Health: 277
+
+
+--- BATTLE LOG ---
+
+Battle 1: Kili the macara vs Faramir the superbahamut
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Faramir the superbahamut  |     91 | Army #2    | Kili the macara           |              79 | Army #1   
+Faramir the superbahamut (2nd) |     56 | Army #2    | Kili the macara           |              23 | Army #1   
+Kili the macara           |     57 | Army #1    | Faramir the superbahamut  |             132 | Army #2   
+Faramir the superbahamut  |    101 | Army #2    | Kili the macara           |               0 | Army #1   
+Winner: Faramir the superbahamut
+
+Battle 2: Thorin the superbahamut vs Pippin the cyberbahamut
+Attacker                  | Damage | Army       | Defender                  | Defender Health | Army      
+------------------------------------------------------------------------------------------------------------------------
+Thorin the superbahamut   |     41 | Army #1    | Pippin the cyberbahamut   |              47 | Army #2   
+Thorin the superbahamut (2nd) |     25 | Army #1    | Pippin the cyberbahamut   |              22 | Army #2   
+Pippin the cyberbahamut   |     14 | Army #2    | Thorin the superbahamut   |              89 | Army #1   
+Thorin the superbahamut   |     59 | Army #1    | Pippin the cyberbahamut   |               0 | Army #2   
+Winner: Thorin the superbahamut
+
+Army Stats After Battle:
+Army #1 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Kili            | macara          |        130 |          0
+Thorin          | superbahamut    |         78 |         89
+Total Health: 89
+
+Army #2 Stats
+Creature        | Type            |   Strength |     Health
+-----------------------------------------------------------------
+Faramir         | superbahamut    |        104 |        132
+Pippin          | cyberbahamut    |        123 |          0
+Total Health: 132
+
+
+
+=== FINAL RESULTS ===
+Army #1 total health: 89
+Army #2 total health: 132
+Army #2 wins the war!
